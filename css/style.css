@@ -604,12 +604,16 @@ body.deck-container .deck-status {
 }
 
 .deck-container .slide.only-title.odd h1,
-.deck-container .slide.only-title.odd h2
+.deck-container .slide.only-title.odd h2,
+.deck-container .slide.only-title.odd h1 a,
+.deck-container .slide.only-title.odd h2 a
 {
         color: #d33682;
 }
 .deck-container .slide.only-title.even h1,
-.deck-container .slide.only-title.even h2
+.deck-container .slide.only-title.even h2,
+.deck-container .slide.only-title.even h1 a,
+.deck-container .slide.only-title.even h2 a
 {
         color: #859900;
 }
@@ -699,14 +703,25 @@ img{
     font-size: 225%;
 }
 
-
 .slide blockquote{
     font-size: 14em;
     text-align:center;
 }
+
 .slide blockquote p a{
     text-decoration: none;
 }
+
 body{
     font-family: 'Sorts Mill Goudy', serif;
+}
+
+h1 a,
+h2 a{
+    text-decoration: none;
+}
+
+h1 a:hover,
+h2 a:hover{
+    text-decoration : underline;
 }
