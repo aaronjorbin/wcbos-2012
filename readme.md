@@ -170,8 +170,31 @@
 
 *   # [yeomin](http://yeoman.io/)
 
+*   # Think about:
+
+*   # What tests should be run when?
+
+*   # Who and How should people be notified of your changes?
+
+*   # How can you fail faster?
+
+*   # <a href="http://www.amazon.com/gp/product/0374275637/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0374275637&linkCode=as2&tag=aarojorb-20">Thinking, Fast and Slow</a><img src="http://www.assoc-amazon.com/e/ir?t=aarojorb-20&l=as2&o=1&a=0374275637" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+*   # <a href="http://www.amazon.com/gp/product/B0055X5ZM0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0055X5ZM0&linkCode=as2&tag=aarojorb-20">The Mind of the Market</a><img src="http://www.assoc-amazon.com/e/ir?t=aarojorb-20&l=as2&o=1&a=B0055X5ZM0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+*   # Follow me: [@aaronjorbin](https://twitter.com/aaronjorbin)
+
 *   ## More Resources
     
     [Tooling and the WebApp Development Stack by Paul Irish](http://dl.dropbox.com/u/39519/talks/tooling-q1/index.html)
+
     [Deploying: Then & Now](http://warpspire.com/posts/ops-art/)
+
+    [Nacin's bash function](http://nacin.com/2010/05/13/my-wordpress-bash-functions/)
+
+    [WordPress, Startups and Cheezburger](http://www.scottporad.com/2009/10/15/wordpress-startups-and-cheezburger/)
+
+    [Akin's Laws of Spacecraft Design](http://spacecraft.ssl.umd.edu/akins_laws.html)
+
+    [Decisions, not Options](http://2011.sf.wordcamp.org/session/decisions-not-options/)
 
