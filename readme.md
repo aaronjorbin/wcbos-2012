@@ -1,6 +1,6 @@
 *	# Automatting your front end workflow
 
-*	# Aaron Jorbin
+*	# [Aaron Jorbin](http://aaron.jorb.in)
 
 *   # Don't take Notes, go to <a href='http://jorb.in/wcbos2012'>jorb.in/wcbos2012</a>
 
@@ -28,7 +28,7 @@
 
 *   # CSS with a hint of programming
 
-*	# [LESS](http://lesscss.org/) || [SASS](http://sass-lang.com/)
+*	# [LESS](http://lesscss.org/) || [SASS](http://sass-lang.com/) || [Stylus](http://learnboost.github.com/stylus/)
 
 *   # Learn to Love the Command Line
 
@@ -61,11 +61,11 @@
 
 *   # [Take a picture of yourself every commit](http://coderwall.com/p/xlatfq)
 
+*   # [Deploy on push to github](http://seancoates.com/blogs/deploy-on-push-from-github)
+
 *   # If you build it, they will come
 
 *	# [Grunt](https://github.com/cowboy/grunt)
-
-*	# [Brunch](http://brunch.io/)
 
 *	# [Hudson/Jenkins](http://jenkins-ci.org/)
 
@@ -73,11 +73,19 @@
 
 *	# [Forge](https://github.com/thethemefoundry/forge)
 
+*	# [Brunch](http://brunch.io/)
+
+*   # Make your own basic script
+
+*   # [watch](https://github.com/mikeal/watch)
+
 *   # [Compile Time Defines](http://jeremyckahn.github.com/blog/2012/07/01/treating-javascript-like-a-30-year-old-language/)
 
 *   # Yo man, I just wrote a test for your test
 
 *	# [Travis CI](http://travis-ci.org/)
+
+    <em>An example of a WordPress plugin using this is <a href='https://github.com/benbalter/WP-Document-Revisions'>WP Document Revisions</a></em>
 
 *	# [jasmine](http://pivotal.github.com/jasmine/)
 
@@ -111,22 +119,59 @@
 
 *   # <a href='https://github.com/SublimeLinter/SublimeLinter'>Sublime Linter</a>
 
+*   # [Closure Linter](https://developers.google.com/closure/utilities/)
+
 *   # CSS
 
 *   # <a href='https://github.com/twitter/recess'>RECESS</a>
 
 *   # [CSS Lint](https://github.com/stubbornella/csslint)
 
+*   # [Closure Stylesheets](http://code.google.com/p/closure-stylesheets/)
+
 *   # Minimize, concatinate and productionify
 
-*	# uglify
+*	# [UglifyJS](https://github.com/mishoo/UglifyJS)
+
+*   # [Closure Compiler](https://developers.google.com/closure/compiler/)
 
 *	# [OptiPNG](http://optipng.sourceforge.net/)
 
 *   # [JPEGTran](http://jpegclub.org/)
 
-*   # [yeomin](http://yeoman.io/)
+*   # [pngquant](http://pngquant.org/)
+
+*   # [trimage](http://trimage.org/)
+
+*   # [ImageOptim](http://imageoptim.com/)
+
+*   # [imagemin](https://github.com/rflynn/imgmin)
+
+*   # [Scour for SVG](http://www.codedread.com/scour/)
+
+*   # [htmlcompressor](http://code.google.com/p/htmlcompressor/)
+
+*   # [Enhance CSS](https://github.com/GoalSmashers/enhance-css)
+    
+    <em>base64 embed images automattically</em>
+
+*   # Sprite?  No thanks, I like 7-Up
+
+*   # [Glue](https://github.com/jorgebastida/glue)
+
+*   # [Sprite Factory](https://github.com/jakesgordon/sprite-factory/)
+
 
 *	# [confess.js](https://github.com/jamesgpearce/confess/)
     
     <em>appcache manifest, Simple performance analysis, List of CSS properties </em>
+
+*   # [Inliner](https://github.com/remy/inliner/)
+
+*   # [yeomin](http://yeoman.io/)
+
+*   ## More Resources
+    
+    [Tooling and the WebApp Development Stack by Paul Irish](http://dl.dropbox.com/u/39519/talks/tooling-q1/index.html)
+    [Deploying: Then & Now](http://warpspire.com/posts/ops-art/)
+
