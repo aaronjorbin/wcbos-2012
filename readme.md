@@ -1,60 +1,132 @@
 *	# Automatting your front end workflow
+
 *	# Aaron Jorbin
-*	# Repetative work sucks
-*	# Tools make things go faster
-*	# Languages ~can~ make things go faster
-*	# More time Doing Awesome Rocks!
+
+*   # Don't take Notes, go to <a href='http://jorb.in/wcbos2012'>jorb.in/wcbos2012</a>
+
+*	# We All have Workflows  
+
+*   # How am I spending my time?
+
+*   # Paper and Pen
+
+*   # [Rescue Time](http://www.rescuetime.com/)
+
+*   ## History
+    
+    <img src='img/historychart.png'>
+
+    <em>Stolen from Sys Admins</em>
+    
+*   # Record your screen
+    
+    <em>Stolen from UX Researchers</em>
+
+*	## Tools Rock!
 	
 	> <a href='http://www.urbandictionary.com/define.php?term=Too%20Much%20Rock%20for%20One%20Hand'>\mm/</a>
 
-*	# LESS
-*	# SASS
+*   # CSS with a hint of programming
 
-*	# Git-SVN
-*	# git/svn hooks
+*	# [LESS](http://lesscss.org/) || [SASS](http://sass-lang.com/)
 
-*	# Grunt
-*	# Hudson/Jenkins
-*	# AutoReload
+*   # Learn to Love the Command Line
 
-*	# dotjs
+*   ## DotFile all the things
 
-*	# Forge
+    <img src='img/dotfile.jpeg' />
 
-*	# Travis CI
+*   # [Dotfiles on Github](http://dotfiles.github.com/)
 
-*	# commander.js
+*   # If you use it more then never, it should have a config
 
+*   # Engineers have Opinions
+
+*   # cat access.log | cut -d " " -f 7 | sort | uniq -c | sort -n
+
+*   ## Tab Complete all the things
+    
+    <blockquote class="twitter-tweet tw-align-center"><p>.@<a href="https://twitter.com/aaronjorbin">aaronjorbin</a> has turned on spellcheck in Skype. It's a new era, y'all.</p>&mdash; Helen Hou-Sandí (@helenhousandi) <a href="https://twitter.com/helenhousandi/status/223070749890584577" data-datetime="2012-07-11T15:06:25+00:00">July 11, 2012</a></blockquote>
+    <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*	# [autojump]
+
+*   # Script out what you do
+
+*	# [commander.js](https://github.com/visionmedia/commander.js)
+
+*	# [Git-SVN](http://www.kernel.org/pub/software/scm/git/docs/git-svn.html)
+
+*	# [git](http://git-scm.com/book/en/Customizing-Git-Git-Hooks)/[svn](http://svnbook.red-bean.com/en/1.1/ch05s02.html) hooks
+
+*   # [Take a picture of yourself every commit](http://coderwall.com/p/xlatfq)
+
+*   # If you build it, they will come
+
+*	# [Grunt](https://github.com/cowboy/grunt)
+
+*	# [Brunch](http://brunch.io/)
+
+*	# [Hudson/Jenkins](http://jenkins-ci.org/)
+
+*   # [WP Stack](https://github.com/markjaquith/WP-Stack/)
+
+*	# [Forge](https://github.com/thethemefoundry/forge)
+
+*   # [Compile Time Defines](http://jeremyckahn.github.com/blog/2012/07/01/treating-javascript-like-a-30-year-old-language/)
+
+*   # Yo man, I just wrote a test for your test
+
+*	# [Travis CI](http://travis-ci.org/)
+
+*	# [jasmine](http://pivotal.github.com/jasmine/)
+
+*	# [QUnit](http://qunitjs.com/)
+
+*	# [mockjax](https://github.com/appendto/jquery-mockjax/)
+
+*	# [mocha](http://visionmedia.github.com/mocha/)
+
+*   # Put your browser to work for you
+
+*	# LiveReload - [Free CLI](https://github.com/guard/guard-livereload) or [Pay for a GUI](http://livereload.com/)
+
+*	# [dotjs](http://defunkt.io/dotjs/)
+
+*   # [sourcemaps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
+
+    <em>If you haven't used SourceMaps then you haven't seen Shakespeare the way it was meant to be done.</em>
+
+*   # It doesn't even have to be a real browser
+
+*	## [phantomjs](http://phantomjs.org/)
+
+    <img src='img/headless.png' />
 
 *   # Keep your Code Looking Nice
+
 *   # JS
-*	# autolint
+
+*	# [Autolint](https://github.com/magnars/autolint)
+
 *   # <a href='https://github.com/SublimeLinter/SublimeLinter'>Sublime Linter</a>
+
 *   # CSS
+
 *   # <a href='https://github.com/twitter/recess'>RECESS</a>
 
-*	# autojump
+*   # [CSS Lint](https://github.com/stubbornella/csslint)
 
-*	# autoreload
-
-*	# slidedown.js
-
-*	# brunch
-
-*	# jasmine
-
-*	# qunit
-
-*	# mockjax
+*   # Minimize, concatinate and productionify
 
 *	# uglify
 
-*   # sourcemaps
+*	# [OptiPNG](http://optipng.sourceforge.net/)
 
-*	# Bunyipmocha
+*   # [JPEGTran](http://jpegclub.org/)
 
-*	# OptiPNG
+*   # [yeomin](http://yeoman.io/)
 
-*	# phantomjs
-
-*	# confess.js
+*	# [confess.js](https://github.com/jamesgpearce/confess/)
+    
+    <em>appcache manifest, Simple performance analysis, List of CSS properties </em>

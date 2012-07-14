@@ -1,0 +1,17 @@
+.slide h2{
+    border: none;
+    text-align: center;
+    font-size: 225%;
+}
+
+
+.slide blockquote{
+    font-size: 14em;
+    text-align:center;
+}
+.slide blockquote p a{
+    text-decoration: none;
+}
+body{
+    font-family: 'Sorts Mill Goudy', serif;
+}
