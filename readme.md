@@ -93,7 +93,7 @@
 
 *	# [mockjax](https://github.com/appendto/jquery-mockjax/)
 
-*	# [mocha](http://visionmedia.github.com/mocha/)
+*	# [mocha](http://mochajs.org/)
 
 *   # Put your browser to work for you
 
