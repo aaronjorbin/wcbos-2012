@@ -87,7 +87,7 @@
 
     <em>An example of a WordPress plugin using this is <a href='https://github.com/benbalter/WP-Document-Revisions'>WP Document Revisions</a></em>
 
-*	# [jasmine](http://pivotal.github.com/jasmine/)
+*	# [jasmine](https://jasmine.github.io/)
 
 *	# [QUnit](http://qunitjs.com/)
 
